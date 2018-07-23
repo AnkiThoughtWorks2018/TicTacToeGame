@@ -12,7 +12,7 @@ Accepted
 
 ## Context
 
-We have compared many other SDKs which can be used as an alternative to vuforia. However, on the parameters of  cost, stability and performance, vuforia stands out. Here is a detailed comparative analysis of all the SDKs we have considered.  
+We have compared many other SDKs which can be used as an alternative to vuforia. However, on the parameters of  cost, stability and performance, vuforia stands out. [Here](https://docs.google.com/spreadsheets/d/16i528rydOj7yhPXnkNPXuaxhGBCMGWCcGXZBbs89fCA/edit#gid=0) is a detailed comparative analysis of all the SDKs we have considered.  
 
 ## Decision
 
@@ -20,4 +20,4 @@ We are proposing vuforia to develop our AR application.
 
 ## Consequences
 
-Development becomes very much easy with Vuforia because of the performance, stability and active community support. At the same time, there is some cost associated with it. The pricing details can be seen here.
+Development becomes very much easy with Vuforia because of the performance, stability and active community support. At the same time, there is some cost associated with it. The pricing details can be seen [here](https://developer.vuforia.com/vui/pricing).
